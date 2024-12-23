@@ -31,7 +31,6 @@ This project analyzes hotel booking data using SQL to uncover key business insig
 #### Answer/Insights: Question 3
 ![Question 3](https://github.com/user-attachments/assets/88155d64-f13f-45b4-b93d-a06a9909d7a5)
 - City Hotels have a higher average daily rate (105.30) than Resort Hotels (94.95).
-- Revenue Loss:
-
-a) City Hotels lose 41.73% of their total revenue to cancellations, significantly higher than Resort Hotels (27.76%).
+- Revenue Loss: <br>
+a) City Hotels lose 41.73% of their total revenue to cancellations, significantly higher than Resort Hotels (27.76%). <br>
 b) Average daily revenue loss due to cancellations is higher for City Hotels (0.40%) compared to Resort Hotels (0.29%).
